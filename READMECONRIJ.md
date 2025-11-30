@@ -1,4 +1,4 @@
-# **Como usar el programa "ConversorRIJ":**
+# **Como usar el programa "ConversorRIJ"**
 
 
 
@@ -39,6 +39,7 @@
 ##### II) El programa maneja exclusivamente con archivos de texto .txt, así que hay que tomarlo en cuenta.
 
 ##### III) El programa SOLO convierte de **Ensamblador** a **Binario**, no es **reciproco**.
+
 
 
 
